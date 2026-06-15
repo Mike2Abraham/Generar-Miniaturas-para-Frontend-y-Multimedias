@@ -1,0 +1,32 @@
+{
+  "fecha": "2026-06-15T21:31:45.607Z",
+  "totalVideos": 3,
+  "exitosos": 3,
+  "fallidos": 0,
+  "resultados": [
+    {
+      "index": 1,
+      "videoPath": "C:/Users/Piñirí/Videos/ANIMACION/The Squid Girl - S01E06.mkv",
+      "success": true,
+      "thumbnailUrl": "file:///C:/Users/Piñirí/AppData/Local/Temp/thumb_1781559104844_76e35ca1.jpg",
+      "tiempoMs": 247,
+      "error": null
+    },
+    {
+      "index": 2,
+      "videoPath": "C:/Users/Piñirí/Videos/ANIMACION/REZZ _ Virtual Riot - Give in to you (feat-1. One True God) (Official Music Video)(720P_HD) - copia.mp4",
+      "success": true,
+      "thumbnailUrl": "file:///C:/Users/Piñirí/AppData/Local/Temp/thumb_1781559105087_6e016733.jpg",
+      "tiempoMs": 209,
+      "error": null
+    },
+    {
+      "index": 3,
+      "videoPath": "C:/Users/Piñirí/Videos/ANIMACION/GOAT [La Cabra Que Cambió El Juego] [2026] [4K-UHD HDR10] [Dual A].avi",
+      "success": true,
+      "thumbnailUrl": "file:///C:/Users/Piñirí/AppData/Local/Temp/thumb_1781559105291_3d2c7d00.jpg",
+      "tiempoMs": 317,
+      "error": null
+    }
+  ]
+}
